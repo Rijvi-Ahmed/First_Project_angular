@@ -1,0 +1,17 @@
+{
+  "player": [
+    {
+      "id": 1,
+      "name": "Shakib AL Hasan",
+      "address": "Dhanmondi 32, Dhaka 1219",
+      "email": "shakib@gmail.com"
+    },
+    {
+      "name": "Tamim Iqbal",
+      "email": "tamim12@gmail.com",
+      "address": "Dhanmondi 32, Dhaka 1219",
+      "id": 2
+    }
+  ],
+  "users": []
+}
